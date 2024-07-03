@@ -1,4 +1,4 @@
-FROM node:lastest
+FROM node:latest
 
 WORKDIR /usr/src/Front_end
 
